@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+   Actualmente é de 570,6 euros 
+
+  Espanha aumenta salário mínimo para 600 euros 
+
+  O Governo socialista espanhol aprovou <TIMEX3 tid="t1" type="DATE" value="2018-02-27">hoje</TIMEX3> o aumento do salário mínimo em Espanha , fazendo-o passar dos actuais 570,6 euros para 600 euros no <TIMEX3 tid="t2" type="DATE" value="FUTURE_REF">próximo</TIMEX3> ano . 
+
+  «Aprovámos o decreto que estabelece o salário mínimo interprofissional nos 600 euros por mês, com efeito a partir de 1 de <TIMEX3 tid="t3" type="DATE" value="2019-01">Janeiro</TIMEX3> », anunciou o chefe do Governo , José Luís Rodriguez Zapatero , numa conferência de imprensa do último Conselho de Ministros deste ano . 
+
+  Este aumento foi conseguido graças ao acordo com os sindicatos e o patronato acrescentou Zapatero , que afirmou que esse valor correspondia às suas promessas eleitorais, precisando que o salário mínimo estava nos 460 euros em <TIMEX3 tid="t4" type="DATE" value="2004">2004</TIMEX3> , aquando da sua ascensão ao poder. 
+
+  O chefe do governo vai disputar um segundo mandato de quatro <TIMEX3 tid="t6" type="DURATION" value="PXY">anos</TIMEX3> nas eleições legislativas de 9 de <TIMEX3 tid="t5" type="DATE" value="2018-03">Março</TIMEX3> , e salienta frequentemente o seu balanço económico positivo. 
+
+  Em <TIMEX3 tid="t7" type="DATE" value="2018-10">Outubro</TIMEX3> , Zapatero prometeu igualmente aumentar o salário mínimo até aos 800 euros por mês em caso de reeleição. 
+
+  À excepção dos antigos países do bloco de leste, a Espanha é um dos países que tem o salário mínimo mais baixo da União Europeia , juntamente com Portugal , Grécia e Malta . 
+
+ 
+</TimeML>
+

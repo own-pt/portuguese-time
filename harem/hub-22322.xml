@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+   Cavaco começa ano com recados de maior exigência ao Governo 
+
+  O Presidente da República , Aníbal Cavaco Silva , vai deixar uma série de recados ao Governo nas palavras que vai dirigir ao país no primeiro dia do ano . 
+
+  A notícia faz manchete na edição desta <TIMEX3 tid="t2" type="DATE" value="2018-02-27">terça-feira</TIMEX3> do Jornal de Notícias , com o diário portuense a assegurar que Cavaco prepara, para a sua primeira comunicação em <TIMEX3 tid="t1" type="DATE" value="2008">2008</TIMEX3> ao País , um discurso com menos optimismo do que o transmitido por Sócrates mensagem de Natal . 
+
+  Afirmando esperar <TIMEX3 tid="t6" type="DURATION" value="P1Y">um ano</TIMEX3> de <TIMEX3 tid="t3" type="DATE" value="2008">2008</TIMEX3> mais exigente do que <TIMEX3 tid="t4" type="DATE" value="2007">2007</TIMEX3> , o Presidente da República promete, ao longo do <TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">próximo</TIMEX3> ano , dar toda a atenção a temas sociais, sobretudo o desemprego, e andar pelo país a mostrar bons exemplos da criação de postos de trabalho. 
+
+   Segundo o JN  ,   Cavaco silva  vai ainda aproveitar a ocasião para sublinhar a expectativa criada em relação aos resultados que pediu no ano passado ao Governo , para as áreas da economia, educação e justiça 
+
+ 
+</TimeML>
+

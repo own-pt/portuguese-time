@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+   Primeiro bebé de <TIMEX3 tid="t1" type="DATE" value="2008">2008</TIMEX3> nasceu em Lisboa às 00:00:30 segundos 
+
+  O provável primeiro bebé português do ano é do sexo masculino e nasceu aos 30 segundos de <TIMEX3 tid="t2" type="DATE" value="2018-02-27">hoje</TIMEX3> na Maternidade Alfredo da Costa , em Lisboa , disse à agência Lusa uma fonte daquele hospital. 
+
+  Com 3,520 quilos , o bebé nasceu de parto normal e encontra-se bem, tal como a sua mãe, Mariana , de <TIMEX3 tid="t3" type="DURATION" value="P16Y">16 anos</TIMEX3> . 
+
+  O provável segundo bebé do ano nasceu no Hospital de São João , no Porto ao primeiro minuto do dia , de parto normal. Chama-se Francisco e é o terceiro filho de um casal residente no Porto , disse à Lusa fonte hospitalar. 
+
+  Ao quinto minuto do dia , novamente na Maternidade Alfredo da Costa , em Lisboa ,nasceu um rapaz, de parto assistido por ventosa, com 3,360 quilos . O bebé encontra-se bem, tal como a mãe, Cristina , de <TIMEX3 tid="t5" type="DURATION" value="P30Y">30 anos</TIMEX3> , disse à Lusa a fonte do hospital. 
+
+ 
+</TimeML>
+

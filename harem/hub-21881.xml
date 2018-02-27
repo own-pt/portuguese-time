@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+   <TIMEX3 tid="t1" type="DATE" value="2008">2008</TIMEX3>: novas entradas em bolsa após recuperação confiança 
+
+  A recuperação da confiança nos mercados de capitais deverá estimular a entrada de novas empresas em bolsa, quer através de privatizações, como ANA, TAP e Aquapor, quer através de capital privado, segundo gestores de activos contactados pela Lusa. 
+
+  O Santander Gestão de Activos considera que "<TIMEX3 tid="t3" type="DATE" value="2008" mod="START">o início de 2008</TIMEX3> não deverá ter muitas novidades em termos de novas entradas em bolsa, face ao aumento de aversão ao risco verificado nas <TIMEX3 tid="t5" type="DURATION" value="PXW">últimas semanas</TIMEX3> e a redução de liquidez verificada nos mercados financeiros». 
+
+  No entanto, salienta, «à medida que os níveis de confiança forem recuperando é de esperar novas entradas de empresas na bolsa portuguesa». 
+
+  O Santander Gestão de Activos aponta para que as novas listagens no <TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">próximo</TIMEX3> ano na Euronext Lisboa aconteçam quer através de privatizações, dando como exemplos os casos da ANA e da TAP, quer através de sociedades de capital privado como o grupo Visabeira. 
+
+  Opinião idêntica tem o gestor do Banif Gestão de Activos, Pedro Castro, para quem a expectativa é que se estreiem na bolsa portuguesa, além da ANA e da TAP, também a Aquapor, a Sonae Capital e a Neo. 
+
+  No ano que <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">agora</TIMEX3> termina houve duas entradas na bolsa portuguesa, concretamente da REN (através da privatização de 24% do capital) e da Martifer. 
+
+ 
+</TimeML>
+

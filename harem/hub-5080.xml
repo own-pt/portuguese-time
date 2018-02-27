@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+   O Tour de França de <TIMEX3 tid="t1" type="DATE" value="2009">2009</TIMEX3>  vai começar no Mónaco com um contra-relógio de 15 quilómetros, numa etapa que também terminará no principado monegasco. 
+
+  O início do contra-relógio terá lugar precisamente no mesmo local do local de partida das provas de Fórmula 1. 
+
+  "O prestígio do principado, a filosofia que tem para o desporto e grandes eventos e a localização geográfrica" foram apontados por Christian Prudhomme como justificação para a decisão. 
+
+  O Tour de França  voltará assim ao Mónaco, depois de <TIMEX3 tid="t2" type="DURATION" value="P45Y">45 anos</TIMEX3>  ausente. 
+
+ 
+</TimeML>
+
